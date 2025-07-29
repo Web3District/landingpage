@@ -1,0 +1,31 @@
+{
+  "name": "web3-district-landing",
+  "version": "1.0.0",
+  "description": "A modern, responsive landing page for WEB3 DISTRICT - an all-in-one Web3 platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "web3",
+    "landing-page",
+    "blockchain",
+    "decentralized",
+    "responsive",
+    "modern"
+  ],
+  "author": "WEB3 DISTRICT Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/web3district/landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/web3district/landing-page/issues"
+  },
+  "homepage": "https://web3district.com",
+  "devDependencies": {},
+  "dependencies": {}
+} 
